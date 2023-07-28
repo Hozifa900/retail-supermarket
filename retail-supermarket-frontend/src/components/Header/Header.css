@@ -1,0 +1,7 @@
+.navbar-expand-lg .navbar-nav .nav-link{
+    /* add left border white */
+    border-left: 1px solid white;
+    margin-left: 40px;
+    padding-left: 40px !important;
+
+}
